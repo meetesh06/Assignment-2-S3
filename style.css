@@ -1,0 +1,11 @@
+img[title = "main"] {
+	height: 100px;
+}
+#search {
+	font-size: 25px;
+	-webkit-appearance:none;
+	height: 50px;
+}
+img[title = "secondary"] {
+	height: 30px;
+}
